@@ -1,7 +1,7 @@
 # Breaking Bad
 
-React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to show and filter characters from the show.
-`Checkout: ` https://b2jena.github.io/breaking-bad/
+React project that uses the [breaking bad api](https://breakingbadapi.com/documentation) to show and filter characters from the show.\
+`Checkout:` [https://b2jena.github.io/breaking-bad/](https://b2jena.github.io/breaking-bad/)
 
 ## Available Scripts
 
